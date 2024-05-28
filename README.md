@@ -1,6 +1,6 @@
 # MyWebSite
 
-Bu proje, kişisel bir web sitesi oluşturmak için HTML, CSS ve JavaScript kullanarak geliştirilmiştir.
+Bu proje, kişisel bir web sitesi oluşturmak için HTML, CSS ve PHP kullanarak geliştirilmiştir.
 
 ## Başlangıç
 
