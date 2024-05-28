@@ -34,3 +34,10 @@ function outputUser(){
         echo '<p class="not-logged-in">You are not logged in</p>';
     }
 }
+/*
+    Eğer bu yorumu görüyorsanız anlamadığım bir sorun hakkında yazacağım. LocalHost'ta login.inc.php dosyasındaki
+    sessionları bu dosyaya aktarıp localhost'ta çıktı alabiliyorum. Lakin infinityfree'den almış olduğum hosting'de
+    bu çalışmıyor. Session'ları test ettim yani aynı dosyada veriyi tutuyorlar ancak login_view.inc.php dosyasına
+    bu veri aktarılmıyor. Sorun üzerine saatlerdir düşünüyorum ancak bir yere varamadım. Eğer zamanınızı ayırıp
+    yardımcı olmak isterseniz mail adresim: eren_kankilinc@icloud.com
+*/
