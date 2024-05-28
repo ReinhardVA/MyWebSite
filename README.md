@@ -23,7 +23,9 @@ git clone https://github.com/ReinhardVA/MyWebSite.git
 
 4. İndirilen proje dosyalarını XAMPP'in "htdocs" dizinine kopyalayın.
 
-5. Tarayıcınızda adres çubuğuna aşağıdaki adresi yazın:
+NOT: phpMyAdmin üzerinden tablo oluşturulacaksa table.sql kodu kullanılması gereklidir.
+
+6. Tarayıcınızda adres çubuğuna aşağıdaki adresi yazın:
 
 http://localhost/MyWebSite
 
